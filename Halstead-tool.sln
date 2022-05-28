@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halstead-tool", "Halstead-tool\Halstead-tool.csproj", "{61894456-F287-49D1-954F-4C21A62A7AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61894456-F287-49D1-954F-4C21A62A7AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61894456-F287-49D1-954F-4C21A62A7AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61894456-F287-49D1-954F-4C21A62A7AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61894456-F287-49D1-954F-4C21A62A7AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1945E647-E413-4E12-ACD9-BECAE872C6A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\bin\Debug\Halstead-tool.exe.config
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\bin\Debug\Halstead-tool.exe
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\bin\Debug\Halstead-tool.pdb
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\obj\Debug\Halstead-tool.csprojAssemblyReference.cache
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\obj\Debug\Halstead-tool.csproj.CoreCompileInputs.cache
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\obj\Debug\Halstead-tool.exe
+C:\Users\Casca\Desktop\Halstead\Halstead-tool\Halstead-tool\Halstead-tool\obj\Debug\Halstead-tool.pdb
